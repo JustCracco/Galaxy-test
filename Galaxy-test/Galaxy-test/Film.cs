@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Galaxy_test
 {
-    class Film
+    public class Film
     {
         string name;
         string regista;
-        float mediarecensione;
+        double mediarecensione;
         bool visto;
 
-        public Film(string name, string regista, float mediarecensione, bool visto)
+        public Film(string name, string regista, double mediarecensione, bool visto)
         {
             this.name = name;
             this.regista = regista;
@@ -31,7 +31,7 @@ namespace Galaxy_test
             return regista;
         }
 
-        public float getMediarecensione()
+        public double getMediarecensione()
         {
             return mediarecensione;
         }
