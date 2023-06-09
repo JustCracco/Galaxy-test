@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Galaxy_test
 {
-    class Libreria
+    public class Libreria
     {
         List<Film> films;
 
@@ -22,7 +22,7 @@ namespace Galaxy_test
             for(int i = 0; i < films.Count; i++)
             {
                 if (films[i].getVisto())
-                    s += $"{films[i].getName}, ";
+                    s += $"{films[i].getName()}, ";
             }
 
             return s;
@@ -35,7 +35,7 @@ namespace Galaxy_test
             for (int i = 0; i < films.Count; i++)
             {
                 if (!films[i].getVisto())
-                    s += $"{films[i].getName}, ";
+                    s += $"{films[i].getName()}, ";
             }
 
             return s;
@@ -46,7 +46,7 @@ namespace Galaxy_test
             string s = "";
 
             for (int i = 0; i < films.Count; i++)
-                s += $"{films[i].getName}, ";
+                s += $"{films[i].getName()}, ";
 
             return s;
         }
@@ -58,7 +58,7 @@ namespace Galaxy_test
             for(int i = 0; i < films.Count; i++)
             {
                 if (films[i].getRegista() == searchregista)
-                    s += $"{films[i].getName}, ";
+                    s += $"{films[i].getName()}, ";
             }
 
             return s;

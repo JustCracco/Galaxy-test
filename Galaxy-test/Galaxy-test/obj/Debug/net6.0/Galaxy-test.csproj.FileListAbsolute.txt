@@ -1,0 +1,15 @@
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\bin\Debug\net6.0\Galaxy-test.exe
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\bin\Debug\net6.0\Galaxy-test.deps.json
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\bin\Debug\net6.0\Galaxy-test.runtimeconfig.json
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\bin\Debug\net6.0\Galaxy-test.dll
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\bin\Debug\net6.0\Galaxy-test.pdb
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.csproj.AssemblyReference.cache
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.AssemblyInfoInputs.cache
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.AssemblyInfo.cs
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.csproj.CoreCompileInputs.cache
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.dll
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\refint\Galaxy-test.dll
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.pdb
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\Galaxy-test.genruntimeconfig.cache
+C:\Users\alber\Galaxy-test\Galaxy-test\Galaxy-test\obj\Debug\net6.0\ref\Galaxy-test.dll

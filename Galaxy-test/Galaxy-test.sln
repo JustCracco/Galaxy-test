@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy-test", "Galaxy-test\Galaxy-test.csproj", "{5FAD6F73-B3E0-4F68-B2B5-526F226B089A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy-test", "Galaxy-test\Galaxy-test.csproj", "{5FAD6F73-B3E0-4F68-B2B5-526F226B089A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Film-Tests", "Film-Tests\Film-Tests.csproj", "{DE7B5DBD-2B5B-4591-9A76-54B167A2B4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria-Tests", "Libreria-Tests\Libreria-Tests.csproj", "{CDE17998-0DD7-4385-9A99-A5B2641F6484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5FAD6F73-B3E0-4F68-B2B5-526F226B089A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FAD6F73-B3E0-4F68-B2B5-526F226B089A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FAD6F73-B3E0-4F68-B2B5-526F226B089A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7B5DBD-2B5B-4591-9A76-54B167A2B4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7B5DBD-2B5B-4591-9A76-54B167A2B4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7B5DBD-2B5B-4591-9A76-54B167A2B4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7B5DBD-2B5B-4591-9A76-54B167A2B4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE17998-0DD7-4385-9A99-A5B2641F6484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE17998-0DD7-4385-9A99-A5B2641F6484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE17998-0DD7-4385-9A99-A5B2641F6484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE17998-0DD7-4385-9A99-A5B2641F6484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
